@@ -1,6 +1,6 @@
 # Developer Card App
 
-![Rafael Diniz - Developer](./assets/image.png)
+<img src="./assets/image.png" alt="Rafael Diniz - Developer" width="300"/>
 
 ## Sobre o Projeto
 
@@ -15,7 +15,7 @@ O **Developer Card App** é um aplicativo mobile desenvolvido em Kotlin, que ser
 
 ## Captura de Tela
 
-![Screenshot](./assets/screenshot.png)
+<img src="./assets/screenshot.png" alt="Screenshot" width="300"/>
 
 ## Tecnologias Utilizadas
 
