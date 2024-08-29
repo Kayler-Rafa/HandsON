@@ -27,7 +27,7 @@ O **Developer Card App** é um aplicativo mobile desenvolvido em Kotlin, que ser
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/developer-card-app.git
+   git clone https://github.com/Kayler-Rafa/HandsON.git
    ```
 2. Abra o projeto no Android Studio.
 3. Sincronize as dependências do Gradle.
